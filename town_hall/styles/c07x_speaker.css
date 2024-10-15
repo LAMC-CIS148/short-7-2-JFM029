@@ -106,10 +106,6 @@ aside img {
 #nav_list ul li .current{
 	color: #800000;
 }
-#nav_list ul li{
-	width: 25px;
-	margin-bottom: 10px;
-}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
