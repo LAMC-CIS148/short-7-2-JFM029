@@ -93,6 +93,16 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+#nav_list ul li{
+	display: inline-block;
+	padding: 5px 10px;
+	text-decoration: none;
+	color: black;
+	border: 2px solid black;
+	border-radius: 10px;
+	box-shadow: 3px 3px 5px
+	transition: box-shadow 0.3s ease;
+}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
