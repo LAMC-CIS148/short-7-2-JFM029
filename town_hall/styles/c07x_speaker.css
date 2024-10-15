@@ -103,6 +103,9 @@ aside img {
 	box-shadow: 3px 3px 5px rgba(128, 0, 0, 0.75);
 	transition: box-shadow 0.3s ease;
 }
+#nav_list ul li .current{
+	color: #800000;
+}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
