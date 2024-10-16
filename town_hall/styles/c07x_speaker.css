@@ -93,15 +93,23 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+#nav_list ul{
+	list-style-type: none;
+	margin-left: 0;
+	margin-bottom: 0;
+}
 #nav_list ul li{
-	display: inline-block;
-	padding: 5px 10px;
-	text-decoration: none;
-	color: black;
+	width: 100px;
+	margin-bottom: .25em;
 	border: 2px solid black;
 	border-radius: 10px;
 	box-shadow: 3px 3px 5px rgba(128, 0, 0, 0.75);
-	transition: box-shadow 0.3s ease;
+}
+#nav_list ul li a{
+	display: block;
+	padding: 5px 10px;
+	text-decoration: none;
+	color: black;
 }
 #nav_list ul li .current{
 	color: #800000;
