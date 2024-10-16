@@ -107,7 +107,7 @@ aside img {
 }
 #nav_list ul li a{
 	display: block;
-	padding: 1px;
+	padding: 0px;
 	text-decoration: none;
 	color: black;
 }
