@@ -108,6 +108,7 @@ aside img {
 #nav_list ul li a{
 	display: block;
 	padding: 0px;
+	margin-bottom: 0;
 	text-decoration: none;
 	color: black;
 }
