@@ -95,8 +95,8 @@ aside img {
 }
 #nav_list ul{
 	list-style-type: none;
-	margin-left: .25em;
-	margin-bottom: .5em;
+	margin-left: .1em;
+	margin-bottom: .2em;
 }
 #nav_list ul li{
 	width: 200px;
