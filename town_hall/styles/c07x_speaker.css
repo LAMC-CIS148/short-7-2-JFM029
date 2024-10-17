@@ -93,34 +93,6 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
-#nav_list ul{
-	list-style-type: none;
-	margin-left: 1.25em;
-	margin-bottom: 1.5em;
-}
-#nav_list ul li{
-	width: 200px;
-	margin-bottom: 2em;
-	border: 2px solid black; 
-	box-shadow: 3px 3px 0 0 #800000;
-	background-image: url("../images/right.jpg");
-	background-repeat: no-repeat;
-	bacground-position: 95% center;
-}
-#nav_list ul li .item { 
-	box-shadow: 3px 3px #800000;
-}
-#nav_list ul li a {
-	display: block;
-	padding: .5em 0 1.7em 1.5em;
-	text-decoration: none;
-	border-radius: 12px;
-	font-weight: bold;
-	color: black;
-}
-#nav_list ul li a.current {
-	color: #800000;
-}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
