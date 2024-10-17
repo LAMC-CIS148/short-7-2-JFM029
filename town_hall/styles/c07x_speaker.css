@@ -93,6 +93,11 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+#nav_list ul{
+	list-style-type: none;
+	margin-left: 1.25em;
+	margin-bottom: 1.5em;
+}
 #nav_list ul li{
 	width: 200px;
 	margin-bottom: 2em;
